@@ -30,6 +30,10 @@ This results in the inner control point.
 
 As a final step the Bézier curves, individual points and tangent handles are displayed.
 
+## Demo video
+
+https://github.com/user-attachments/assets/9cbf5650-4441-44e2-8d56-01aa67177b2e
+
 
 ## Outlook
 
